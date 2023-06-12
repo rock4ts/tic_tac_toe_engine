@@ -38,7 +38,7 @@ The project was built using Python 3.9 with focus on modern Python code practice
 * Type hints
 * Regular expressions
 * Caching
-* Recurcion
+* Recursion
 
 
 ## How to run the game
